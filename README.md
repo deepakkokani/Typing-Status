@@ -1,2 +1,2 @@
 # Typing-Status
-This JavaScript snippet creates an interactive typing indicator for a chat interface. It tracks user input in an input box and shows a "typing" indicator when the user starts typing
+This JavaScript snippet creates an interactive typing indicator for a chat interface. It tracks user input in an input box and shows a "typing" indicator when the user starts typing. The indicator disappears after a short delay when the user stops typing. This functionality improves the user experience by providing real-time feedback about ongoing typing activity in the chat interface.
